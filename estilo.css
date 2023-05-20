@@ -1,0 +1,71 @@
+.menu{
+    display: flex;
+}
+.hero{
+    display: flex;
+}
+.img{
+    height: 580px;
+    width: 590px;
+}
+.titulo{
+    display: flex;
+}
+
+.section1{
+height: 300px;
+width: 300px;
+margin-right: 150px;
+}
+.textosegundosection{
+    display: flex;
+}
+.imagen2{
+height: 300px;
+width: 300px;
+margin-left: 150px;
+
+}
+.section2{
+    display: flex;
+}
+.imagen3{
+    height: 300px;
+    width: 300px;
+    margin-right: 150px; 
+}
+.section3{
+    display: flex;
+}
+.imagen4{
+    height: 300px;
+    width: 300px;
+    margin-left: 150px;
+}
+.section4{
+    display: flex;
+}
+.section5{
+display: flex;
+}
+.section7{
+    background-color:beige;
+}
+.sectionultima{
+    display: flex;
+}
+.imgultimo{
+padding: 50px;
+}
+.footer1{
+    display: flex;
+   
+}
+.menuletras{
+ word-spacing: 50px;
+ right: 70px;
+}
+
+.ultima{
+    display: flex;
+}
